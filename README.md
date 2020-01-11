@@ -2,7 +2,7 @@
 
 This repository is related to our work concerned with Studying-the-controversy-in-online-crowds-interactions.
 
-Datasets and other related project files ised in this project on the following link:
+Datasets and other related project files used in this project on the following link:
 
 https://drive.google.com/open?id=1GTm6oD69-1nDmwYZ-qQrGOm0CXkP-wmC
 
