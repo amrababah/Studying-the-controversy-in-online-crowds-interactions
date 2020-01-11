@@ -2,6 +2,11 @@
 
 This repository is related to our work concerned with Studying-the-controversy-in-online-crowds-interactions.
 
+Datasets and other related project files ised in this project on the following link:
+
+https://drive.google.com/open?id=1GTm6oD69-1nDmwYZ-qQrGOm0CXkP-wmC
+
+
 Please, cite the following paper if you utilize the resources in this project:
 
 - Al-Ayyoub, M., Rabab’ah, A., Jararweh, Y., Al-Kabi, M.N. and Gupta, B.B., 2018. Studying the controversy in online crowds’ interactions. Applied Soft Computing, 66, pp.557-563.
